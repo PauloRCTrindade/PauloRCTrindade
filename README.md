@@ -1,7 +1,7 @@
 <h1 align="left">Olá Amigo !! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu Sou o Paulo Trindade</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Desenvolvedor Jr, com grande entusiasmmo no desenvolvomento Web e Mobile!!!
+- 🔥 Desenvolvedor, com grande entusiasmmo no desenvolvomento Web e Mobile!!!
 
 <br><br>
 
